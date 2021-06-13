@@ -1,0 +1,8 @@
+je peut ecrire du html en js et on declare dans une varible avec des guillemet inversée
+
+location.reload();//rafraichir la page
+pour chaque passage d'une page a une autre on doit passer l'id
+
+location.replace("displayProduct.html");//thizni min page el o5ra
+
+pour ouvrir une page dans un autre onglet on utilise target plank
